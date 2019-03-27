@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\DefuseBombGame\DefuseBomGame\DefuseBomGame\DefuseBomGame\bin\Debug\netstandard2.0\DefuseBomGame.deps.json
+C:\Users\USER\Desktop\DefuseBombGame\DefuseBomGame\DefuseBomGame\DefuseBomGame\bin\Debug\netstandard2.0\DefuseBomGame.dll
+C:\Users\USER\Desktop\DefuseBombGame\DefuseBomGame\DefuseBomGame\DefuseBomGame\bin\Debug\netstandard2.0\DefuseBomGame.pdb
+C:\Users\USER\Desktop\DefuseBombGame\DefuseBomGame\DefuseBomGame\DefuseBomGame\obj\Debug\netstandard2.0\DefuseBomGame.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\DefuseBombGame\DefuseBomGame\DefuseBomGame\DefuseBomGame\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USER\Desktop\DefuseBombGame\DefuseBomGame\DefuseBomGame\DefuseBomGame\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USER\Desktop\DefuseBombGame\DefuseBomGame\DefuseBomGame\DefuseBomGame\obj\Debug\netstandard2.0\DefuseBomGame.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\DefuseBombGame\DefuseBomGame\DefuseBomGame\DefuseBomGame\obj\Debug\netstandard2.0\DefuseBomGame.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\DefuseBombGame\DefuseBomGame\DefuseBomGame\DefuseBomGame\obj\Debug\netstandard2.0\DefuseBomGame.AssemblyInfo.cs
+C:\Users\USER\Desktop\DefuseBombGame\DefuseBomGame\DefuseBomGame\DefuseBomGame\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USER\Desktop\DefuseBombGame\DefuseBomGame\DefuseBomGame\DefuseBomGame\obj\Debug\netstandard2.0\DefuseBomGame.dll
+C:\Users\USER\Desktop\DefuseBombGame\DefuseBomGame\DefuseBomGame\DefuseBomGame\obj\Debug\netstandard2.0\DefuseBomGame.pdb
