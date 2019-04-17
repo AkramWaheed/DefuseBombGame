@@ -4,7 +4,5 @@
 # it's a college project ,using C# with the help of cross plateform
 # Project is given by Damien Costello
 # Galway Mayo Institute of Technology
-#Layout
-Initial Game layout is designed 
-#Background
-Background image done
+
+Initial Game layout is designed ….
